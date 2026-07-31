@@ -39,9 +39,16 @@ To redeploy: push this repo to GitHub, then on https://share.streamlit.io choose
 ## Team
 | Name | Registration Number | GitHub Username |
 |---|---|---|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| DANIEL INYANG JOHN | 22/EG/AE/817 | leinadinhoj-max |
+| GYUBOK ISAAC ISHAKU | 22/EG/AE/777 | isaac-gyubok-22-777|
+| BASSEY SAMUEL BONIFACE | 22/EG/AE/787 | samuel-bassey-22-787 |
+| GODFREY VICTOR OKON | 22/EG/AE/797 | godfrey-okon-22-797 |
+| AKPAN VICTOR OKON | 23/EG/AE/027 | Victor-Akpan-23-027 |
+| ISONG GIDEON EMMANUEL | 23/EG/AE/037 | Gideon-Isong-23-037 |
+| AKANAM SHADRACH OSUNG | 22/EG/AE/807 | shadrach-akanam-22-807 |
+| WISDOM ANIEDI BASSEY | 23/EG/AE/007 | wisdomsmart123 |
+| EZE CHIOMA ORJI  | 23/EG/AE/017 | Eze-Chioma-23-017 |
+| BLESSING JOSEPH GEORGE | 22/EG/AE/827 | genialsjoseph204-collab |
 
 ## Disclaimer
 Built for an academic engineering exercise only. Not a validated medical device and
